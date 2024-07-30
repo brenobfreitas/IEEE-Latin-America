@@ -1,1 +1,5 @@
 # IEEE-Latin-America
+
+Worksheet “CURVAS DE PERMANÊNCIA ITAIPU E BELO MONTE” deals with drawing up the permanence curve. With it, the values of the area available for the studies can be obtained. On the “ITAIPU” and “BELO MONTE” tabs, the elevation and time interval data for each HPP is entered. The values in columns E and F form the resulting curve. The “Plan1” tab shows the values according to the calculated percentile and the final graph with the permanence curve for both HPPs.
+
+Worksheet “Dimensionamento” deals with the preparation of graphs of the average monthly generation of the HPPs and their respective monthly complementarity graphs. By adding the historical minimum and maximum generation values in columns A and B to the spreadsheet and the installed HPP and FVF powers in columns I and J, the spreadsheet generates the resulting values for each month of the year, once the number of hours per month has been defined. The resulting graphs thus show the comparison between the HPPs and the estimated absolute values per month in the graphs on the right.
